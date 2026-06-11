@@ -73,8 +73,6 @@ Data Handling	Pandas, NumPy
 Dataset Access	KaggleHub
 Web Framework	Streamlit
 Model Storage	Pickle
-📁 Project Structure
-ai-fitness-planner/ │ ├── app.py # Streamlit application ├── diet_model.pkl # Trained diet ML model ├── exercise_model.pkl # Trained exercise ML model ├── requirements.txt # Dependencies ├── README.md # Project documentation
 
 ▶️ How to Run the Project
 pip install -r requirements.txt
